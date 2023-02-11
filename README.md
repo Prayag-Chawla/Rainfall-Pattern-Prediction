@@ -1,5 +1,5 @@
 
-# Raunfall Patern Predciction
+# Rainfall Patern Predciction
 Rainfall Pattern detection is one of the most important real-life problems, especially in the agricultural sector. Weather pattern forecasting is essential to understand and analyze factors like the right crop that needs to be grown, the best time to harvest, precautions to undertake on the field, etc. Weather plays a crucial role in the whole agricultural process. It is not that easy to predict the course of weather accurately and here is where Machine Learning and AI come to play. Highly trained models tuned with the right hyper-parameters can yield accurate results in forecasting. The project covers the detection of rainfall patterns using some machine learning models.
 
 
@@ -91,3 +91,19 @@ The project is used by a lot of weather and forecasting companies to analyse the
 I will give you a reference of all the models used in machine learning in case you are wondering
 
 https://www.javatpoint.com/machine-learning-algorithms
+
+
+
+##Output
+
+![image](https://user-images.githubusercontent.com/92213377/218240051-f7b34e44-04ab-4da2-ae7d-be2c079db76e.png)
+![image](https://user-images.githubusercontent.com/92213377/218240063-156d8ceb-383f-4942-8b81-d51bc7858806.png)
+![image](https://user-images.githubusercontent.com/92213377/218240075-d47fbb60-3462-4ed4-81d1-26f1e4b4e4ee.png)
+
+
+The australia one -
+
+![image](https://user-images.githubusercontent.com/92213377/218240114-b3cfa70d-5e1f-4187-a1ba-1ff3a256175a.png)
+![image](https://user-images.githubusercontent.com/92213377/218240123-8b2b4f3f-30bf-4f5e-ab14-e375e5a403c3.png)
+![image](https://user-images.githubusercontent.com/92213377/218240137-7214684d-8449-440f-87e5-372f04508824.png)
+![image](https://user-images.githubusercontent.com/92213377/218240151-eb814b9e-f916-49e2-be49-f69ecad92fa8.png)
